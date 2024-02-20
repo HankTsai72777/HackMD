@@ -33,7 +33,7 @@ website:https://code.visualstudio.com/<br/>
 Build directory .ssh: `mkdir .ssh`<br/>
 cd至.ssh: `cd .ssh`<br/>
 Build file authorized_keys: `touch authorized_keys`<br/>
-![Uploading image.png…]()
+![image](https://hackmd.io/_uploads/SyTnnFZhp.png)<br/>
 
 
 ![image](https://hackmd.io/_uploads/ry2-Xug2T.png)<br/>
