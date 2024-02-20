@@ -59,10 +59,23 @@ Check permission: `ll -d <file or directory>`<br/>
 
 6.X server setting
 ---
-(1)Download Remote X11<br/>
+(1)Download Remote X11 & Xming<br/>
+載點: https://sourceforge.net/projects/xming/<br/>
+![image](https://hackmd.io/_uploads/Bk2Z00-h6.png)
+
 ![image](https://hackmd.io/_uploads/Skiilug2p.png)<br/>
 (2)Revise config<br/>
 ![image](https://hackmd.io/_uploads/BkWt-_lh6.png)<br/>
+(3)開啟Xming<br/>
+![image](https://hackmd.io/_uploads/r1n2aRZ2T.png)<br/>
+
+![image](https://hackmd.io/_uploads/SyXFCCb3a.png)<br/>
+
+![image](https://hackmd.io/_uploads/r1X5A0bna.png)<br/>
+
+![image](https://hackmd.io/_uploads/ByziAAZnT.png)<br/>
+(4)即可在vscode直接開啟nWave等tools<br/>
+![image](https://hackmd.io/_uploads/rJ8G6R-np.png)
 
 7.MobaXterm
 ---
