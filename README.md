@@ -23,7 +23,7 @@ website:https://code.visualstudio.com/<br/>
 (2)Open cmd<br/>
 ![image](https://hackmd.io/_uploads/Sk8N95icT.png)<br/>
 (3)Generate keys:`ssh-keygen -t rsa`，輸入後一直Enter<br/>
-![image](https://hackmd.io/_uploads/HyZBs5j5T.png)<br/>
+![image](https://github.com/HankTsai72777/HackMD/assets/119429162/c4b1d0b1-c403-4890-99d6-034850130617)<br/>
 (4)產生檔案如下<br/>
 ![image](https://hackmd.io/_uploads/By8qs5iq6.png)<br/>
 
